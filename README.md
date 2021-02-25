@@ -1,6 +1,6 @@
 ### Merhaba Herkese 👋 Tirendaz Akademi GitHub Sayfasına Hoşgeldiniz 😄
 
-Lütfen proje dosyaları için ingilizce hesabımıza gidin: https://github.com/TirendazAcademy
+### Lütfen proje dosyaları için ingilizce hesabımıza gidin 👉 https://github.com/TirendazAcademy
 
 ## Çalışma Alanlarımız 🔭
 
