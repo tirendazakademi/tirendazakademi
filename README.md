@@ -1,16 +1,16 @@
 ### Merhaba Herkese 👋 Tirendaz Akademi GitHub Sayfasına Hoşgeldiniz 😄
 
-Lütfen Proje dosyaları için ingilizce hesabımıza gidin: https://github.com/TirendazAcademy
+Lütfen proje dosyaları için ingilizce hesabımıza gidin: https://github.com/TirendazAcademy
 
-## Çalışma Alanları 🔭
+## Çalışma Alanlarımız 🔭
 
 Veri Bilimi | Yapay Zeka | Makine Öğrenmesi | Derin Öğrenme | Biyoinformatik
 
-## Services Offered 👍
+## Sunduğumu Hizmetler 👍
 
 Online Eğitim | Danışmanlık | Veri Analizi | Web Tasarım | App Geliştirme | Blog Yazma
 
-## Online Eğitim Sayfaları 🏬
+## Online Eğitim Sayfalarımız 🏬
 
 
 [![](https://img.shields.io/badge/YouTube-Türkçe-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
