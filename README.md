@@ -6,7 +6,7 @@
 
 Veri Bilimi | Yapay Zeka | Makine Öğrenmesi | Derin Öğrenme | Biyoinformatik
 
-## Sunduğumu Hizmetler 👍
+## Sunduğumuz Hizmetler 👍
 
 Online Eğitim | Danışmanlık | Veri Analizi | Web Tasarım | App Geliştirme | Blog Yazma
 
